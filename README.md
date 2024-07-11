@@ -14,10 +14,8 @@ Returns an Excel file with the total credit amount from the last month.
 
 ## Features
 
-- **Automated Data Extraction**: Automatically extracts data from a `.numbers` file.
+- **Automated Data Extraction**: Automatically extracts data from a `.csv` file.
 - **Natural Language Query**: Interprets questions asked in English.
-- **Excel Output**: Provides the response in a neatly formatted Excel file.
-- **Modular Design**: Easy to extend and maintain.
 
 ## Setup
 
