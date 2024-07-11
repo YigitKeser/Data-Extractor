@@ -2,7 +2,7 @@
 
 ## Overview
 
-Data Extractor is a tool designed to receive a question in English as input and return an Excel file containing the requested information extracted from a dataset. It utilizes OpenAI's language model to interpret the question and extract relevant data from a provided `.numbers` file.
+Data Extractor is a tool designed to receive a question in English as input and return an Excel file containing the requested information extracted from a dataset. It utilizes OpenAI's language model to interpret the question and extract relevant data from a provided `.csv` file.
 
 ## Example
 
@@ -52,5 +52,5 @@ Returns an Excel file with the total credit amount from the last month.
 
 Run the tool with your query:
 ```sh
-python main.py "What was the total credit amount last month?"
+python main.py
 ```
