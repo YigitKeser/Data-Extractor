@@ -45,7 +45,7 @@ Returns an Excel file with the total credit amount from the last month.
     OPENAI_API_KEY = your_openai_api_key
 
     [PATH]
-    INPUT_FILE = data/credit_data.numbers
+    INPUT_FILE = data/credit_data.csv
     OUTPUT_FILE = output/response.xlsx
     ```
 ### Usage
